@@ -20,7 +20,7 @@ Forecasting the stock prices of **TCS (Tata Consultancy Services)** using:
 notebooks/ → Jupyter notebooks (one for each model)
 outputs/ → Forecast plots
 reports/ → Individual model reports
-Final_Project_Report.pdf → Merged final report
+Final_Project_Report → Merged final report
 README.md → This file
 requirements.txt → List of Python packages
 
